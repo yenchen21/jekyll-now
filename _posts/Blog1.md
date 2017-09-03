@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CS 371p Fall 2017: Yen Chen Wee
+title: "CS 371p Fall 2017: Yen Chen Wee"
 ---
 # CS 371p Blog Post #1
 
