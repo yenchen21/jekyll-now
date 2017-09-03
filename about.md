@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am currently a third year Computer Science undergraduate student at the University of Texas at Austin.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[yenchenwee@yahoo.com](mailto:yenchenwee@yahoo.com)
