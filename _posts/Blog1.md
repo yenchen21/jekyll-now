@@ -2,9 +2,46 @@
 layout: post
 title: CS 371p Fall 2017: Yen Chen Wee
 ---
+# CS 371p Blog Post #1
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ https://github.com/yenchen21/yenchen21.github.io }}/images/config.png)
+![_config.yml]({{ https://github.com/yenchen21/yenchen21.github.io }}/images/headshot.jpg)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## What are your expectations of the class?  
+ Besides learning about the concepts of object oriented programming, I hope to
+ become more familiar with C++ and the software development tools that we will 
+ eventually use throughout the semester. My goal is to continue improving my 
+ skills and knowledge around software development and I'm hoping this class will
+ be a part of that process. 
+
+## What did you do this past week?
+With this past week being syllabus week, most of my time outside of class was spent getting ready for the fall semester which included getting textbooks, school 
+supplies and planning out a new routine. 
+
+## What's in your way?
+I'm the type of person that likes to find a schedule or routine that I can follow
+on a consistent basis. As a result, it always takes me some time to plan out and
+get used to a new routine at the start of a new semester. This semester will be
+especially interesting to plan around as it is 
+the first semester that I will try to balance a job along with my classes. 
+
+
+## What will you do next week?
+Next week, I plan to continue attending lectures and going to work. I'm expecting
+this upcoming week to be much busier as I imagine my professors will begin giving
+us actual assignments to start working on.
+
+## What's my experience of the class?
+My experience of the class up to this point has been very positive. Professor 
+Downing has kept the lectures interesting and I appreciate that, despite it only 
+being syllabus week, he has already given us a brief introduction to a software
+development tool Docker, along with introducing the basics of C++.  
+
+## What's my pick-of-the-week or tip-of-the-week?
+Over the past year, I had been suggested to learn how to use Vim, a useful text 
+editor built into most UNIX systems. At first, it was difficult 
+as there are many shortcuts and key mappings to become familiar with before text editting
+in Vim is practical. My tip-of-the-week is this 
+[Vim shortcut cheat sheet](https://vim.rtorr.com) along with the `vimtutor` terminal
+command that helped me utilize this effective text editor. 
+
