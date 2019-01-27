@@ -6,7 +6,7 @@ permalink: /about/
 
 ### About Me
 
-I am currently a third year Computer Science undergraduate student at the University of Texas at Austin.
+I am currently a fourth year Computer Science undergraduate student at the University of Texas at Austin.
 
 ### Contact me
 
